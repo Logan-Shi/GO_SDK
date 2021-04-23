@@ -17,6 +17,7 @@ To install GoSDK dependency, the following steps are required:
 ```
 # Build  
 ```shell 
+$ mkdir GO_SDK/bin/linux_x64
 $ cd GO_SDK/Gocator
-$ make -f GoSdk-Gnu.mk 
+$ make -f GoSdk-Linux_X64.mk 
 ```

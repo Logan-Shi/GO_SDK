@@ -1,0 +1,15 @@
+<map id="GoSurfaceTool" name="GoSurfaceTool">
+<area shape="rect" id="node4" href="$class_go_surface_box.html" title="Represents a surface bounding box tool. &#160;all width/height/length/radius and x/y/z units are in mm..." alt="" coords="423,5,530,32"/>
+<area shape="rect" id="node5" href="$class_go_surface_countersunk_hole.html" title="Represents a Surface Counter Sunk Hole tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="385,56,568,83"/>
+<area shape="rect" id="node6" href="$class_go_surface_dim.html" title="Represents a Surface dimension tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="423,107,530,133"/>
+<area shape="rect" id="node7" href="$class_go_surface_ellipse.html" title="Represents a surface ellipse tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="415,157,538,184"/>
+<area shape="rect" id="node8" href="$class_go_surface_hole.html" title="Represents a surface hole tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="422,208,531,235"/>
+<area shape="rect" id="node9" href="$class_go_surface_opening.html" title="Represents a surface opening tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="411,259,542,285"/>
+<area shape="rect" id="node10" href="$class_go_surface_plane.html" title="Represents a surface plane tool.all width/height/length/radius and x/y/z units are in mm..." alt="" coords="419,309,535,336"/>
+<area shape="rect" id="node11" href="$class_go_surface_position.html" title="Represents a surface position tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="411,360,542,387"/>
+<area shape="rect" id="node12" href="$class_go_surface_rivet.html" title="Represents a surface rivet tool. " alt="" coords="421,411,532,437"/>
+<area shape="rect" id="node13" href="$class_go_surface_stud.html" title="Represents a surface stud tool. all width/height/length/radius and x/y/z units are in mm..." alt="" coords="421,461,532,488"/>
+<area shape="rect" id="node14" href="$class_go_surface_volume.html" title="Represents a surface volume tool. measurements in mm, mm^2 for area and mm^3 for volume. " alt="" coords="413,512,540,539"/>
+<area shape="rect" id="node2" href="$class_go_tool.html" title="Represents the base tool class. " alt="" coords="120,259,183,285"/>
+<area shape="rect" id="node3" href="D:/xml-data/build-dir/GOC-GOC6V0-JOB1/build/kApiDoc/tags.xml$classk_object.html" title="kObject" alt="" coords="5,259,72,285"/>
+</map>
